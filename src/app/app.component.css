@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Bebas+Neue&family=Josefin+Sans:wght@500&family=Signika:wght@300&display=swap');
+
+body {
+    background-color: burlywood;
+}
+
+.main {
+    display: block;
+    font-size: 5em;
+    color: rgb(21, 0, 255);
+    font-family: 'Josefin Sans';
+    border: 10px solid red;
+}
+
+.topic1 {
+    display: block;
+    font-size: 3em;
+    color: brown;
+    font-family: 'Josefin Sans';
+    border: 10px dashed yellow;
+}
+
+.topic2 {
+    display: block;
+    font-size: 3em;
+    color: rgb(5, 62, 5);
+    font-family: 'Josefin Sans';
+    border: 10px dashed darkmagenta;
+}
